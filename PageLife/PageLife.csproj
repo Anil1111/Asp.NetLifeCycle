@@ -66,9 +66,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PageLifeCycleEvent.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PageLifeCycleEvent.aspx.cs">
+      <DependentUpon>PageLifeCycleEvent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageLifeCycleEvent.aspx.designer.cs">
+      <DependentUpon>PageLifeCycleEvent.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
