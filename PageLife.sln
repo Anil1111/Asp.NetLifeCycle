@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageLife", "PageLife\PageLife.csproj", "{19D334D6-E2F9-4D3A-8899-27FB6D29C3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D334D6-E2F9-4D3A-8899-27FB6D29C3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D334D6-E2F9-4D3A-8899-27FB6D29C3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D334D6-E2F9-4D3A-8899-27FB6D29C3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D334D6-E2F9-4D3A-8899-27FB6D29C3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42ECDEFD-521A-4EEE-987C-C3CB7B032B70}
+	EndGlobalSection
+EndGlobal
